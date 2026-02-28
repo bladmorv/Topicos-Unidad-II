@@ -10,7 +10,7 @@ import random
 # Configuración de Couchbase Capella
 
 COUCHDB_URL = "couchbases://cb.i0ymsakyszrjfaeg.cloud.couchbase.com"
-COUCHDB_USERNAME = "access"
+COUCHDB_USERNAME = "dev"
 COUCHDB_PASSWORD = "FvS!739zDs37"
 COUCHDB_BUCKET = "travel-sample"
 
