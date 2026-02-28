@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "/home/vscode/.vcpkg/artifacts/2139c4c6/debuggers.arm.armdbg/6.6.1/sw/osgi/plugins/com.arm.debug.interpreter.jython.api_6.6.1.202508041948"
+    ],
+    "snyk.advanced.autoSelectOrganization": true
+}

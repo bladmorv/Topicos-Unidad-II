@@ -8,10 +8,11 @@ import time
 import random
 
 # Configuración de Couchbase Capella
-COUCHDB_URL = "couchbases://cb.cj1kcvgq695ufzto.cloud.couchbase.com"
-COUCHDB_USERNAME = "jeanvalverde"
-COUCHDB_PASSWORD = "Valverde24c#"
-COUCHDB_BUCKET = "TopicosAppU2"
+
+COUCHDB_URL = "couchbases://cb.i0ymsakyszrjfaeg.cloud.couchbase.com"
+COUCHDB_USERNAME = "access"
+COUCHDB_PASSWORD = "FvS!739zDs37"
+COUCHDB_BUCKET = "travel-sample"
 
 # Conexión a Couchbase Capella
 auth = PasswordAuthenticator(COUCHDB_USERNAME, COUCHDB_PASSWORD)
